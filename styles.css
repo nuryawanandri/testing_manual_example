@@ -1,0 +1,13 @@
+.content {
+  border: 1px solid #ddd;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+}
+.pagination {
+  margin: 10px;
+}
+.page-active {
+  background: lightgray;
+}
